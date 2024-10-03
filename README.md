@@ -7,7 +7,7 @@
 Run the dev server:
 
 ```shellscript
-npm run start:dev
+npm run dev
 ```
 
 ## Deployment
